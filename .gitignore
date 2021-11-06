@@ -1,1 +1,4 @@
-/day04/daily-solution/target/classes/week01day04/Hello.class
+.idea
+*.iml
+/target/
+/.idea/.gitignore
